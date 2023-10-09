@@ -1,0 +1,28 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0;
+}
+
+.highlight {
+    background-color: rgb(64, 116, 60);
+    color: black;
+}
+
+#section1 {
+    border: 2px solid #333;
+    padding: 10px;
+}
+
+#section2 {
+    border: 2px solid rgb(112, 112, 93);
+    padding: 10px;
+}
+
+a:hover {
+    color: red;
+}
+
+.box {
+    padding: 20px;
+    margin: 10px;
+}

@@ -6,6 +6,7 @@ body {
 .highlight {
     background-color: rgb(64, 116, 60);
     color: black;
+    padding: 20px;
 }
 
 #section1 {
@@ -22,7 +23,15 @@ a:hover {
     color: red;
 }
 
-.box {
-    padding: 20px;
-    margin: 10px;
+.imageclass{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
 }
+
+#myImage {
+    max-width: 50%;
+    height: auto; 
+}
+
